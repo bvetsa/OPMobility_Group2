@@ -4,21 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Lightweight Authentication for LIN/CAN Probes — README</title>
-  <style>
-    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height:1.5; color:#0b1220; padding:28px; max-width:980px; margin:auto; }
-    h1 { font-size:1.9rem; margin-bottom:0.2rem; color:#0b2330; }
-    h2 { font-size:1.25rem; margin-top:1.2rem; color:#0b3b4a; }
-    p.lead { color:#25323c; margin-top:0.2rem; }
-    pre { background:#0f1720; color:#e6edf3; padding:12px; overflow:auto; border-radius:8px; font-size:0.95rem;}
-    code { background:#eef6fb; padding:3px 6px; border-radius:4px; font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace; font-size:0.95rem; }
-    ul { margin-left:1.05rem; }
-    table { border-collapse: collapse; width:100%; margin-top:0.6rem; }
-    table th, table td { text-align:left; padding:8px; border-bottom:1px solid #e6eef3; }
-    .note { background:#fff7d6; border-left:4px solid #ffd24a; padding:10px; border-radius:6px; margin:10px 0; color:#3b2f00; }
-    .kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace; background:#eee; padding:2px 6px; border-radius:4px; }
-    footer { margin-top:28px; font-size:0.9rem; color:#526170; }
-    .cta { background:#0b6bff; color:white; padding:8px 12px; border-radius:6px; display:inline-block; text-decoration:none; margin-top:8px;}
-  </style>
+
 </head>
 <body>
   <h1>Lightweight Authentication for LIN/CAN Probes — README</h1>
